@@ -57,3 +57,7 @@ D:\Dev\CarX-Mods\HUD-Controller\Package\plugins\HUD-Controller\XDSRace.dll
 D:\Dev\CarX-Mods\HUD-Controller\Package\plugins\HUD-Controller\ZKWCryptoPlayerPrefs.dll
 D:\Dev\CarX-Mods\HUD-Controller\obj\Release\HUD-Controller.csproj.CopyComplete
 D:\Dev\CarX-Mods\HUD-Controller\obj\Release\HUD-Controller.dll
+D:\Dev\CarX-Mods\GITHUB\CarX.HUD-Controller\Package\plugins\HUD-Controller\HUD-Controller.dll
+D:\Dev\CarX-Mods\GITHUB\CarX.HUD-Controller\obj\Release\HUD-Controller.csproj.AssemblyReference.cache
+D:\Dev\CarX-Mods\GITHUB\CarX.HUD-Controller\obj\Release\HUD-Controller.csproj.CoreCompileInputs.cache
+D:\Dev\CarX-Mods\GITHUB\CarX.HUD-Controller\obj\Release\HUD-Controller.dll

@@ -7,7 +7,13 @@ using System.IO;
 using System.Reflection;
 using UnityEngine;
 using UnityEngine.UI;
-
+// ||========================={ C R E D I T S }============================||
+// ||                                                                      ||
+// ||   THIS MOD WAS BORN FROM A REQUEST IN DISCORD DM'S BY CRUSTY_TEDDY.  ||
+// ||                                                                      ||
+// ||                C O D E D       B Y       V A L I D U S E R           ||
+// ||                                                                      ||
+// ||========================={ C R E D I T S }============================||
 namespace HUD_Controller
 {
     [BepInPlugin(GUID, MODNAME, VERSION)]
